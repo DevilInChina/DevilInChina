@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=DevilInChina&show_icons=true&include_all_commits=true&theme=solarized-dark)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=DevilInChina&layout=compact&theme=solarized-dark&count_private=true)
 <!--
 **DevilInChina/DevilInChina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
